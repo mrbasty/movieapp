@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mrbasty/movieapp/static/css/main.5f361e03.chunk.css",
+    "main.js": "/mrbasty/movieapp/static/js/main.a7c09180.chunk.js",
+    "main.js.map": "/mrbasty/movieapp/static/js/main.a7c09180.chunk.js.map",
+    "runtime-main.js": "/mrbasty/movieapp/static/js/runtime-main.74cf71e3.js",
+    "runtime-main.js.map": "/mrbasty/movieapp/static/js/runtime-main.74cf71e3.js.map",
+    "static/js/2.50797b33.chunk.js": "/mrbasty/movieapp/static/js/2.50797b33.chunk.js",
+    "static/js/2.50797b33.chunk.js.map": "/mrbasty/movieapp/static/js/2.50797b33.chunk.js.map",
+    "index.html": "/mrbasty/movieapp/index.html",
+    "precache-manifest.b0f20e16097c63d603e1a5fde471afc1.js": "/mrbasty/movieapp/precache-manifest.b0f20e16097c63d603e1a5fde471afc1.js",
+    "service-worker.js": "/mrbasty/movieapp/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/mrbasty/movieapp/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.50797b33.chunk.js.LICENSE.txt": "/mrbasty/movieapp/static/js/2.50797b33.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mrbasty/movieapp/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74cf71e3.js",
+    "static/js/2.50797b33.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a7c09180.chunk.js"
+  ]
+}
